@@ -20,7 +20,7 @@ header h1 {
     color: white;
 }
 
-#download {
+.download {
     color: aquamarine;
     font-size: 1rem;
 }
@@ -40,7 +40,7 @@ header h1 {
     justify-content: center;
 }
 
-.camp h2 {
+h2 {
     font-family: Verdana, sans-serif;
     color: white;
     font-size: 2.1rem;
@@ -51,4 +51,12 @@ header h1 {
     font-family: Verdana, sans-serif;
     color: gray;
     font-size: .8rem;
+}
+
+.phone {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
 }

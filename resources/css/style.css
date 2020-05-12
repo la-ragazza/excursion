@@ -32,3 +32,23 @@ header h1 {
     align-items: center;
     justify-content: center;
 }
+
+.camp {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.camp h2 {
+    font-family: Verdana, sans-serif;
+    color: white;
+    font-size: 2.1rem;
+    font-weight: 300;
+}
+
+.camp h4 {
+    font-family: Verdana, sans-serif;
+    color: gray;
+    font-size: .8rem;
+}
